@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlokSingh2
+- 👋 Hi, I’m @Alok
 - 👀 I’m interested in ML AI projects 
 - 🌱 I’m currently learning ML AI ..
 - 💞️ I’m looking to collaborate on ...
